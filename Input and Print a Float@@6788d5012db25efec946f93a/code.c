@@ -2,6 +2,6 @@
 int main() {
     flot n;
     scanf("%f",&n);
-    printf("You entered %f",n);
+    printf("You entered :%f",n);
     return 0;
 }
