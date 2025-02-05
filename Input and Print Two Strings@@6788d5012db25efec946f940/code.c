@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-    char word1[100],word2[100];
+    char word1[],word2[];
     scanf("%s",&word1[100]);
     printf("\t");
     scanf("%s",&word2[100]);
