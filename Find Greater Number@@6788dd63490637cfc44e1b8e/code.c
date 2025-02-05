@@ -5,10 +5,10 @@ int main() {
     printf("\t");
     printf("%d",&b);
     if(a>b){
-        printf("%d",a);
+        printf("\n%d",a);
     }
     else{
-        printf("%d",b);
+        printf("\n%d",b);
     }
     return 0;
 }
