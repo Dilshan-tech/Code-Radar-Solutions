@@ -5,7 +5,7 @@ int main() {
     for(i=n;i>0;i--){
         for(j=i-1;j>=0;j--){
             printf("*");
-            printf("\t");
+            printf(" ");
         }
         printf("\n");
     }
