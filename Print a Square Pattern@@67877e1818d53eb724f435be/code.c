@@ -8,6 +8,9 @@ int main() {
                 printf("*");
                 printf(" ");
             }
+            else{
+                printf(" ");
+            }
         }
         printf("\n");
     }
